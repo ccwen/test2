@@ -5,6 +5,7 @@ jsonp_handler({
  "date": "2014-11-27T01:34:56.316Z",
  "minruntime": "1.3",
  "description": "",
+ "baseurl":"http://cdn.rawgit.com/ksanaforge/test2/master/",
  "files": [
   "index.html",
   "build.js",
